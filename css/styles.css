@@ -21,9 +21,9 @@
  --winter-green-dream: #558B6E;
  --oxford-blue: #000586;
  --beau-red: #771212;
- --text-h2: rgba(68,68,68, 1);
- --text-h3: rgba(118,118,118, 1);
- --text-p: rgba(136,136,136, 1);
+ --text-h2: rgba(68, 68, 68, 1);
+ --text-h3: rgba(118, 118, 118, 1);
+ --text-p: rgba(136, 136, 136, 1);
  --text-p-hover: rgb(12, 127, 242, 1);
  --pathway-gothic: 'Pathway Gothic One', sans-serif;
  --barlow-semi: 'Barlow Semi Condensed', sans-serif;
@@ -39,7 +39,7 @@
 html {
  box-sizing: border-box;
  font-size: 10px;
- background:  var(--oxford-blue);
+ background: var(--oxford-blue);
 }
 
 body {
@@ -49,6 +49,7 @@ body {
 h1 {
  font-size: 4rem;
 }
+
 a {
  text-decoration: none;
 }
@@ -78,7 +79,7 @@ img {
  max-width: 96rem;
  text-align: center;
  background: var(--winter-green-dream);
- color: rgba(119,18,18, 1);
+ color: rgba(119, 18, 18, 1);
 }
 
 #content__wrapper__2 div:nth-child(odd) {
@@ -179,7 +180,7 @@ img {
 }
 
 #content__wrapper div {
- background-color: rgba(119,18,18, 1);
+ background-color: rgba(119, 18, 18, 1);
 }
 
 #content__wrapper div:nth-child(odd) {
@@ -216,9 +217,7 @@ img {
  align-items: center;
 }
 
-.header__2 {
-
-}
+.header__2 {}
 
 .notifications {
  display: flex;
@@ -226,9 +225,7 @@ img {
  align-items: center;
 }
 
-.digital__workshops {
-
-}
+.digital__workshops {}
 
 
 .footer {
@@ -305,7 +302,3 @@ img {
 #disclaimer h1 {
  background-color: #fff;
 }
-
-
-
-
